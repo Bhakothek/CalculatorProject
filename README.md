@@ -1,7 +1,7 @@
 # CalculatorProject
 This is my project regarding calculator on web pages .
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
